@@ -1,0 +1,35 @@
+body {
+  background-color: #C2FFD9;
+}
+
+hr{
+  background-color: #9DDAC6;
+  height: 3px;
+  border-top: 0;
+  border-bottom: 0;
+  width: 90%;
+}
+
+h1{
+  color: #FF4848;
+}
+
+h3{
+  color: #FF4848;
+}
+
+td{
+  color: #FFD371;
+  -webkit-text-stroke: 0.2px black;
+}
+
+th{
+  color: #E63E6D;
+  -webkit-text-stroke: 0.2px black;
+}
+
+
+.baseTable{
+  border: 2px solid #B42B51;
+    background-color: #420516;
+}
